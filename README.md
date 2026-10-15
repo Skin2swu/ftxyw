@@ -17,10 +17,10 @@
 首先需要一个可以刷写的路由器或拿一块如j3160或j1900这类的工控板做软路由。进入在线编译网站填写自己的设备型号来获取openwrt刷机包，关于如何刷入得根据设备自行寻找教程
 
 例如：
-[https://openwrt.ai/](https://openwrt.ai/)
-[https://firmware-selector.immortalwrt.org/](https://firmware-selector.immortalwrt.org/)
-[https://github.com/wukongdaily/ImmortalWrt-ImageBuilder](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder)
-https://firmware-selector.openwrt.org/
+1.[https://openwrt.ai/](https://openwrt.ai/)
+2.[https://firmware-selector.immortalwrt.org/](https://firmware-selector.immortalwrt.org/)
+3.[https://github.com/wukongdaily/ImmortalWrt-ImageBuilder](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder)
+4.https://firmware-selector.openwrt.org/
 
 这边推荐kwrt也就是第一个网站因为方便构建，如有其他需求可以用下面3个分别是immortalwrt（比较纯净的版本）和一个自由度更好的immortalwrt项目最后一个是官方版本
 
